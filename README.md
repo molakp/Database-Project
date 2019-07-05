@@ -1,4 +1,4 @@
-# Quqery Laboratorio Database #
+# Query Laboratorio Database #
 
 **Query 1**
 *Richiesta*:
