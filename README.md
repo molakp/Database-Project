@@ -1,4 +1,4 @@
-# Query Laboratorio Database #
+# Record  Label Database #
 
 **Query 1**
 *Richiesta*:
